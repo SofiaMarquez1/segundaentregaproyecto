@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lucida Sans Unicode";
+}
+
+.header {
+  background: radial-gradient(circle, #bedfd0 200px, #00afd1);
+}
+
+.img {
+  height: 200px;
+}
+
+.foto {
+  background-color: #a5e2ba;
+}
+
+.video {
+  margin-bottom: 70px;
+}
+
+.comienzo {
+  background-color: #a5e2ba;
+}
+
+.imgh {
+  height: 300px;
+}
+
+.footer {
+  color: white;
+  font-family: "Lucida Sans Unicode";
+}
+
+.a:hover {
+  transform: scale(1.5);
+}
